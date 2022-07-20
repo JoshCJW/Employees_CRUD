@@ -26,7 +26,8 @@ FullStack UI's Folder - Open with Visual Studio Code
 
 Step 2 (Create Table in DB) : 
 Open terminal in visual studio and run this command : dotnet ef database update
-this is to create table based on the migration folder. extra information : dotnet ef migrations add Initial << To create migration folder if does not exist
+this is to create table based on the migration folder. extra information : dotnet ef migrations add Initial
+^ To create migration folder if does not exist
 or if you want to add more columns, tables. but of cos remember to edit the EF models etc..
 
 Step 3:
