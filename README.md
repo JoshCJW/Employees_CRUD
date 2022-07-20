@@ -49,5 +49,11 @@ You can then proceed to test out CRUD! Remember to create your own data :)
 
 Thank you!
 
+Screenshots of Application
+![1](https://user-images.githubusercontent.com/104182041/180048032-ad72e7b1-746d-407b-96c0-386dc4b2e04d.PNG)
+![2](https://user-images.githubusercontent.com/104182041/180048038-52d22b7c-a384-447f-881b-536a1fb94bff.PNG)
+![3](https://user-images.githubusercontent.com/104182041/180048040-f6fdaf78-0cf2-49d3-a41a-0e6ca3f6a3c2.PNG)
+![4](https://user-images.githubusercontent.com/104182041/180048041-2b97175e-33a9-4f7a-b1bf-8d900d0231a5.PNG)
+
 
 
