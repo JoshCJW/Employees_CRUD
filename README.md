@@ -44,7 +44,7 @@ Step 5 (Running the application):
 - Ctrl + Click on the URL provided (If you work if angular you should know)
 - The application should be running normal
 
-You can then proceed to test out CRUD!
+You can then proceed to test out CRUD! Remember to create your own data :)
 
 Thank you!
 
