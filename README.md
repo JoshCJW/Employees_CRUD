@@ -35,7 +35,7 @@ Open your SQL Server, Copy your local host address (very important), Connect to 
 Step 4 (Minor Code changes):
 - In visual studio -> appsetings.json change the sever:JOSHUA\\SQLEXPRESS to your own local host connection string
 - Run the WebAPI, Swagger will pop up : Check if you can access the database with API, then copy the local host url
-- In visual studio code -> src -> environments -> environments.ts -> change the baseAPiURL: to your own localhost from the above
+- In visual studio code -> src -> environments -> environments.ts -> change the baseApiURL: to your own localhost from the above
 - remember to save
 
 Step 5 (Running the application):
