@@ -41,7 +41,7 @@ Step 4 (Minor Code changes):
 
 Step 5 (Running the application):
 - Run WebApi, Swagger will pop up
-- In Visual Studio Code -> Top tap click on Terminal and run the command : ng serve
+- In Visual Studio Code -> Top tab click on Terminal and run the command : ng serve
 - Ctrl + Click on the URL provided (If you work if angular you should know)
 - The application should be running normal
 
